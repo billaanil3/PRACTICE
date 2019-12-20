@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Loops</h2>
+
+<p id="demo"></p>
+
+<script>
+xmlhttp=new XMLHttpRequest();
+xmlhttp.open("GET", "https://dgps.gujarat.gov.in/webcontroller/page/government-resolutions", false);
+xmlhttp.send();
+var data = JSON.parse(xmlhttp.responseText);
+// console.log(data)
+// let cheerio = require('cheerio');
+// let jsonframe = require('jsonframe-cheerio');
+// let $ = cheerio.load('https://dgps.gujarat.gov.in/webcontroller/page/government-resolutions');
+// // jsonframe($);
+// console.log($)
+// var cars = ["BMW", "Volvo", "Saab", "Ford", "Fiat", "Audi"];
+// var text = "";
+// var i;
+// for (i = 0; i < cars.length; i++) {
+//     text += cars[i] + "<br>";
+// }
+// document.getElementById("demo").innerHTML = text;
+// var name = "codemzy";
+// $.get('https://dgps.gujarat.gov.in/webcontroller/page/government-resolutions') 
+//   console.log(response);
+
+// var table = document.getElementById("news"); 
+// console.log(table)
+// var cells = table.getElementsByTagName("td"); 
+// for (var i = 0; i < cells.length; i++) { 
+//     var status = cells[i].getAttribute("data-status"); 
+//     if ( status == "open" ) { 
+//         // grab the data 
+//     }
+// }
+</script>
+
+</body>
+</html>

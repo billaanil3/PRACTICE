@@ -1,0 +1,236 @@
+{
+	"Franking Done": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Franking Done",
+		"data_type": "text"
+	},
+	"Additional Remarks": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Additional Remarks",
+		"data_type": "text"
+	},
+	"Department Person Concerned": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Department Person Concerned",
+		"data_type": "text"
+	},
+	"Signed By": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Signed By",
+		"data_type": "text"
+	},
+	"Agreement Physical Location": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Agreement Physical Location",
+		"data_type": "text"
+	},
+	"Privately / Publicly Held": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Privately / Publicly Held",
+		"data_type": "text"
+	},
+	"NDA Status ": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "NDA Status ",
+		"data_type": "text"
+	},
+	"Term (in year) ": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Term (in year) ",
+		"data_type": "text"
+	},
+	"Signatory for DP ": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Signatory for DP ",
+		"data_type": "text"
+	},
+	"Signatory for RP ": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Signatory for RP ",
+		"data_type": "text"
+	},
+	"Address of the Other Party ": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Address of the Other Party ",
+		"data_type": "text"
+	},
+	"Exceptions to Non-Disclosure ": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Exceptions to Non-Disclosure ",
+		"data_type": "text"
+	},
+	"Governing Law ": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Governing Law ",
+		"data_type": "text"
+	},
+	"Dispute Resolution ": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Dispute Resolution ",
+		"data_type": "text"
+	},
+	"Penalty for Delayed Payment": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Penalty for Delayed Payment",
+		"data_type": "text"
+	},
+	"Termination Clause": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Termination Clause",
+		"data_type": "text"
+	},
+	"Type of Services": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Type of Services",
+		"data_type": "text"
+	},
+	"Payment Terms": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Payment Terms",
+		"data_type": "text"
+	},
+	"Escalation Contact": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Escalation Contact",
+		"data_type": "text"
+	},
+	"Rent Payment Date": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Rent Payment Date",
+		"data_type": "text"
+	},
+	"Property Location": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Property Location",
+		"data_type": "text"
+	},
+	"Deposit Amount": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Deposit Amount",
+		"data_type": "text"
+	},
+	"Confidentiality": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Confidentiality",
+		"data_type": "text"
+	},
+	"Non Compete": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Non Compete",
+		"data_type": "text"
+	},
+	"Intellectual Property Rights": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Intellectual Property Rights",
+		"data_type": "text"
+	},
+	"Change in Control/Ownership": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Change in Control/Ownership",
+		"data_type": "text"
+	},
+	"Indemnity": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Indemnity",
+		"data_type": "text"
+	},
+	"Non Solicitation": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Non Solicitation",
+		"data_type": "text"
+	},
+	"Force Majure": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Force Majure",
+		"data_type": "text"
+	},
+	"Jurisdiction & Dispute Resolution": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Jurisdiction & Dispute Resolution",
+		"data_type": "text"
+	},
+	"Consideration": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Consideration",
+		"data_type": "text"
+	},
+	"Tax Obligation": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Tax Obligation",
+		"data_type": "text"
+	},
+	"Exclusivity": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Exclusivity",
+		"data_type": "text"
+	},
+	"Limitation of Liability": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Limitation of Liability",
+		"data_type": "text"
+	},
+	"Advance Payments consideration": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Advance Payments consideration",
+		"data_type": "text"
+	},
+	"Execution Date": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Execution Date",
+		"data_type": "text"
+	},
+	"Lock In Period - Months": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Lock In Period - Months",
+		"data_type": "text"
+	},
+	"Date of Upload": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Date of Upload",
+		"data_type": "text"
+	},
+	"Uploaded By": {
+		"default_value": "",
+		"required": false,
+		"placeholder": "Uploaded By",
+		"data_type": "text"
+	}
+}

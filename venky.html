@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Scrapping Example</title>
+</head>
+<body>
+    <div>
+        <p>
+            <span>
+                <b>My Parents are: </b>
+            </span>
+        </p>
+    </div>
+    <script type="text/javascript">
+        var parentEls = $("b").parents()
+            .map(function() {
+                return this.tagName;
+            })
+            .get()
+            .join(", ");
+        $("b").append("<script>" + parentEls + "</script>")
+    </script>
+</body>
+</html>
